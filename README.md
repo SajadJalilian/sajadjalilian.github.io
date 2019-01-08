@@ -1,6 +1,6 @@
 # Sajad Jalilian
 
-### Androdid Developer
+### Android Developer
 
 You can find me here:
 - [twitter](https://twitter.com/Sajad_Jalilian)
