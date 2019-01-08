@@ -7,7 +7,7 @@ You can find me here:
 - [linkdin](https://www.linkedin.com/in/sajadjalilian)
 - [github](https://github.com/SajadJalilian)
 - [instagram](https://www.instagram.com/sajad.jalilian)
-- [telegam](https://t.me/sajadjalilian)
+- [telegram](https://t.me/sajadjalilian)
 - [my blog on virgool](https://virgool.io/@SajadJ)
 
 ### email
