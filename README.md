@@ -11,4 +11,4 @@ You can find me here:
 - [my blog on virgool](https://virgool.io/@SajadJ)
 
 ### email
-sajadjalilian88 [a t] gmail [ dot ] com
+sajadjalilian88 [ at ] gmail [ dot ] com
