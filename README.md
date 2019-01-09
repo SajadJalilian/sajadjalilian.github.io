@@ -1,6 +1,6 @@
 ## Sajad Jalilian
 
-#### I'm trying to be a good software developer
+#### I'm trying to be a good software developer. Kotlin / Java & Android student
 
 You can find me here:
 
