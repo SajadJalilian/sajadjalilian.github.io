@@ -1,6 +1,6 @@
 # Sajad Jalilian
 
-### Android Developer
+### I'm trying to be a good software developer
 
 You can find me here:
 - [twitter](https://twitter.com/Sajad_Jalilian)
