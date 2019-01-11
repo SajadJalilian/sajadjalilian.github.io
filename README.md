@@ -11,6 +11,6 @@ You can find me here:
 - [telegram](https://t.me/sajadjalilian)
 - [my blog on virgool](https://virgool.io/@SajadJ)
 
-#### email
+#### Email
 
-sajadjalilian88 [ at ] gmail [ dot ] com
+sajadjalilian88     g mail
