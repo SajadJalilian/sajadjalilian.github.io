@@ -1,4 +1,4 @@
-## Sajad Jalilian
+### Hi, my name is Sajad Jalilian
 
 #### I'm trying to be a good software developer. Java / Kotlin / Android student
 
@@ -12,4 +12,4 @@ You can find me here:
 
 #### :)
 
-sajadjalilian88 /g mail/
+email : sajadjalilian88 [at] gmail
