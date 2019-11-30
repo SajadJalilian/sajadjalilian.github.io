@@ -9,7 +9,8 @@ You can find me here:
 - [github](https://github.com/SajadJalilian)
 - [telegram](https://t.me/sajadjalilian)
 - [my blog on virgool](https://virgool.io/@SajadJ)
+- Discord id: Sajad_Jalilian#7552
 
 #### :)
 
-email : sajadjalilian88 [at] gmail
+e mail : sajadjalilian88 [at] gmail [dot] com
