@@ -5,7 +5,7 @@
 You can find me here:
 
 - [twitter](https://twitter.com/Sajad_Jalilian)
-- mastodon: @ sajadjalilian @ mastodon.social
+- [mastodon](https://mastodon.social/@sajadjalilian)
 - [linkedin](https://linkedin.com/in/sajadjalilian)
 - [github](https://github.com/SajadJalilian)
 - [telegram](https://t.me/sajadjalilian)
