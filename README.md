@@ -9,7 +9,7 @@ You can find me here:
 - [github](https://github.com/SajadJalilian)
 - [my blog on virgool](https://virgool.io/@SajadJ)
 
-#### contact ways :)
+#### contact ways :
 - [telegram](https://t.me/sajadjalilian)
 - Discord id: Sajad_Jalilian#7552
 - e mail : sajadjalilian88 [at] gmail [dot] com
