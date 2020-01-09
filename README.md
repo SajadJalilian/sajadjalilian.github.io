@@ -1,6 +1,6 @@
 ### Hi, my name is Sajad Jalilian
 
-#### I'm trying to be a good software developer. Working on Java & JVM stuff
+#### I'm trying to be a good software developer.
 
 You can find me here:
 
