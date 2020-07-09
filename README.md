@@ -2,6 +2,8 @@
 
 #### I'm trying to be a good software developer.
 
+[My Resume/CV](https://github.com/SajadJalilian/Sajad_Jalilian_CV)
+
 You can find me here:
 
 - [reddit](https://www.reddit.com/user/sajadj)
