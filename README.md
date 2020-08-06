@@ -6,10 +6,11 @@
 
 You can find me here:
 
-- [reddit](https://www.reddit.com/user/sajadj)
+- [reddit](https://reddit.com/user/sajadj)
 - [twitter](https://twitter.com/Sajad_Jalilian)
 - [linkedin](https://linkedin.com/in/sajadjalilian)
 - [github](https://github.com/SajadJalilian)
+- [codewars](https://codewars.com/users/SajadJalilian)
 - [وبلاگ فارسی](https://virgool.io/@SajadJ)
 
 #### contact ways :
