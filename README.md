@@ -2,7 +2,7 @@
 
 #### I'm trying to be a good software developer.
 
-[My Resume/CV](https://github.com/SajadJalilian/Sajad_Jalilian_CV/blob/master/Sajad_Jalilian_CV.pdf)
+[My Resume](https://github.com/SajadJalilian/Sajad_Jalilian_CV/blob/master/Sajad_Jalilian_CV.pdf)
 
 You can find me here:
 - [My Blog](https://sajadjalilian.blogspot.com)
