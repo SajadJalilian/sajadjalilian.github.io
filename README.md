@@ -1,6 +1,7 @@
 ### Hi, my name is Sajad Jalilian
+#### I'm trying to be a good software developer :)
+I use python for backend development.
 
-#### I'm trying to be a good software developer.
 
 [My Resume](https://github.com/SajadJalilian/Sajad_Jalilian_CV/blob/master/Sajad_Jalilian_CV.pdf)
 
