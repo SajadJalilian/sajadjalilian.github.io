@@ -14,4 +14,4 @@ You can find me here:
 #### contact ways :
 - [telegram](https://t.me/sajadjalilian)
 - Discord id: Sajad_Jalilian#7552
-- e mail : sajadjalilian88 [at] gmail [dot] com
+- e mail / skype: sajadjalilian88 [at] gmail [dot] com
