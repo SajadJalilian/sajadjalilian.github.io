@@ -47,9 +47,7 @@ conda create -n myenv python=3.6
 ```
 
 I was happy using Conda until bad news happened again, it’s turned out Conda doesn’t support python 3.3.7 which I needed for my project. In fact, Conda python version support is much limited compared to ‘pyenv’, even though Conda uses ‘pyenv’ under the hood.\
-
 So again I had to try a new tool, my new favorite ‘pyenv’. RealPython has an excellent article about using it ([this one](https://realpython.com/intro-to-pyenv)).\
-
 With pyenv you can easily install and manage different python versions, and with its plugin ‘pyenv-virtualenv’ you can work with different venvs easily, something like Conda environments but on steroids!
 
 I used all of them, and each one has its pros and cons. My suggestion is if you don’t care about python lower than 3.6 and don’t need to install more than 3 different python versions for the rest of your life, just use ‘Standard library venv’. If ‘Conda environments’ support all of the python versions that you need, go for it. If you are like me and have to use ancient python versions and you will add more of them for your projects, use ‘pyenv’ and ‘pyenv-virtualenv’ and save yourself many headaches. In the end, you can use ‘pipenv’ for totally [different reasons](https://realpython.com/pipenv-guide). Good news is you can use it with ‘pyenv’ [reade more](https://hackernoon.com/reaching-python-development-nirvana-bb5692adf30c).
