@@ -1,6 +1,6 @@
 ### Hi, my name is Sajad Jalilian
 #### I'm trying to be a good software developer :)
-I use python for backend development.
+I am interested in backend development. Python / C#
 
 
 You can find me here:
