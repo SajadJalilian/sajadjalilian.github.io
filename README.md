@@ -3,10 +3,11 @@
 I use python for backend development.
 
 
-[My Resume](https://github.com/SajadJalilian/Sajad_Jalilian_CV/blob/master/Sajad_Jalilian_CV.pdf)
-
 You can find me here:
-- [وبلاگ فارسی](https://virgool.io/@SajadJ)
+- [My Blog](https://sajadjalilian.blogspot.com)
+-  [وبلاگ فارسی من](https://sajadjalilian-fa.blogspot.com/)
+-  [وبلاگ من در ویرگول](https://virgool.io/@SajadJ)
+- [My blog Medium mirror](https://medium.com/@SajadJ)
 - [twitter](https://twitter.com/Sajad_Jalilian)
 - [linkedin](https://linkedin.com/in/sajadjalilian)
 - [github](https://github.com/SajadJalilian)
