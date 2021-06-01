@@ -4,10 +4,8 @@ I am interested in backend development. Python / C#
 
 
 You can find me here:
-- [My Blog](https://sajadjalilian.blogspot.com)
--  [وبلاگ فارسی من](https://sajadjalilian-fa.blogspot.com/)
--  [وبلاگ من در ویرگول](https://virgool.io/@SajadJ)
-- [My blog Medium mirror](https://medium.com/@SajadJ)
+- [My Blog](https://sajadjalilian.blogspot.com) | [mirror](https://medium.com/@SajadJ)
+-  [وبلاگ فارسی من](https://sajadjalilian-fa.blogspot.com/)  |  [mirror](https://virgool.io/@SajadJ)
 - [twitter](https://twitter.com/Sajad_Jalilian)
 - [linkedin](https://linkedin.com/in/sajadjalilian)
 - [github](https://github.com/SajadJalilian)
